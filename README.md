@@ -1,2 +1,13 @@
 # doc-test
-Testing out GitHub's viability as a non-technical documentation system
+
+This is to test out the viability of using GitHub as a documenation system.
+
+# TOC
+
+* Core Procedures
+  * Procedure A
+  * Procedure B
+  * Procedure C
+* Reports
+* Analysis
+* Tutorials
